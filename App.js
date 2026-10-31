@@ -2,8 +2,8 @@
 import React from "react";
 
 function StringLiterals() {
-  const name = "Saritha";
-  const age = 21;
+  const name = "jaswitha";
+  const age = 20;
 
   return (
     <div>
